@@ -39,12 +39,12 @@ Proyecto académico en C++ que permite realizar:
   - Función de portada.
   - Definición de elementos químicos (nombres, símbolos, masas).
   - Función `mostrarElementos`.
-  - Conversión de masa (Case 2).
   - Suma de masas atómicas (Case 3).
   - Salida y despliegue de historial (Case 4).
 
 - **Código de Lewis Diaz**:
   - Conversión de temperatura (Case 1).
+  - Conversión de masa (Case 2).
   - Manejo del historial de operaciones (`log.txt`).
   - Captura de hora (`ctime`).
 

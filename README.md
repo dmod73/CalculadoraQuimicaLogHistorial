@@ -35,28 +35,55 @@ Proyecto académico en C++ que permite realizar:
 
 ## 📂 Organización del Código
 
-- **Código de Dean**:
-  - Definición de elementos químicos.
+- **Código de Dean M Ortiz Diaz**:
   - Función de portada.
-  - Conversión de masa.
-  - Suma de masas atómicas.
-  - Manejo del menú de opciones 2, 3 y 4.
-  
-- **Código de Lewis**:
-  - Funciones de conversión de temperatura.
-  - Manejo del historial (`log.txt`).
+  - Definición de elementos químicos (nombres, símbolos, masas).
+  - Función `mostrarElementos`.
+  - Conversión de masa (Case 2).
+  - Suma de masas atómicas (Case 3).
+  - Salida y despliegue de historial (Case 4).
+
+- **Código de Lewis Diaz**:
+  - Conversión de temperatura (Case 1).
+  - Manejo del historial de operaciones (`log.txt`).
+  - Captura de hora (`ctime`).
 
 ## 📄 Uso
 
 1. Compilar el proyecto con un compilador de C++.
 2. Ejecutar el archivo compilado.
 3. Seguir las instrucciones en pantalla para realizar las operaciones.
-4. Al salir, revisar el archivo `log.txt` para ver el historial completo.
+4. Al salir, revisar el historial mostrado en consola.
 
-## 👨‍💻 Creado por
+## 🏷️ Versión
 
-- Dean M Ortiz Diaz
-- Lewis Diaz
+- **Versión 1.0**
 
 ---
 
+# 🧾 Licencia
+
+MIT License
+
+Copyright (c) 2025  
+Dean M Ortiz Diaz, Lewis Diaz
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---

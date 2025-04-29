@@ -1,0 +1,1 @@
+Tipo de calculo: Conversion de Temperatura, Resultado: 773.150000 grados, Hora: [23:05:42]
